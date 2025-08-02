@@ -46,13 +46,18 @@ In the final project, students will design and implement a complete database sys
 
 You will have five sets of homework assignments, which together carry a total of 5 points. These assignments include both theoretical and practical exercises to help reinforce your learning throughout the course (See the [homework page](https://dbcs.ir/assignments/), which will be updated during the course). The due dates for these assignments will be posted on this website.
 
-Please follow the instructions to turn in your homework:
-- Homeworks must be submitted electronically as PDF files.
-- Files should be named according to the following scheme:
-   - HW<2-digits homework number>\_\<LastName>\_\<FirstName>.pdf.
-   - For instance, my first homework would be called HW01_Vazan_Milad.pdf.
-- 📧 Email your homework to **hw@dbcs.ir**
+## Homework Submission Instructions
 
+Please follow the instructions to turn in your homework:  
+
+- Homeworks must be submitted electronically.  
+- The **subject line of your email** must follow this naming scheme:  
+  - `HW<2-digits homework number>_<LastName>_<FirstName>`  
+  - For instance, my first homework would be called: `HW01_Vazan_Milad`  
+
+⚠️ **Important:** Emails with this exact subject format will receive an **automatic confirmation reply** upon submission.  
+
+- 📧 Send your homework to **hw@dbcs.ir**
 ## **Exams**
 
 The course will include **two exams**. Both exams will assess the required readings and topics covered in class. The first exam will be an "in-class" [midterm](https://dbcs.ir//exams), while the second will be a [final exam](https://dbcs.ir//exams) scheduled during the University's final examination period at the end of the semester.
