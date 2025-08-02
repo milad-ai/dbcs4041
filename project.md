@@ -8,7 +8,7 @@ permalink: /project/
 
 - **Total Weight:** 5 points  
 
-For the final project, each student must design and implement a **complete database system** from scratch and deploy it using **Streamlit** and **PostgreSQL**.  
+For the final project, each student must design and implement a complete database system from scratch and deploy it using Streamlit and PostgreSQL, leveraging **Ploomber Cloud** for deployment and **Neon** for serverless PostgreSQL database management.
 
 ### Steps and Grading
 
