@@ -175,6 +175,7 @@ To successfully participate in this course, students are expected to prepare the
 - **Python**: [Install](https://www.python.org/downloads/) the latest stable version of Python for running scripts and interacting with databases.  
 - **GitHub Account**: Create a [GitHub](https://github.com/) account.
 - **Streamlit Account and GitHub Integration**: Link your GitHub account to [Streamlit](https://share.streamlit.io/) to deploy database-driven web applications.
+- **Ploomber Cloud**: [create a Ploomber Cloud account](https://www.platform.ploomber.io/register/)
 - **[Visual Studio Code](https://code.visualstudio.com/download)**
 - **[PostgreSQL](https://www.postgresql.org/download/)**
 - **DuckDB**: Install DuckDB for lightweight, embedded database tasks and analytical queries.
