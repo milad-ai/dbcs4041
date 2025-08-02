@@ -21,7 +21,7 @@ Beyond the fundamentals, the course introduces **modern trends and tools** in da
 - **Introduction to NoSQL databases** (e.g., MongoDB) and understanding when to choose them over relational systems.
 - **Query optimization and indexing** for improved performance in large datasets. 
 - **Big Data frameworks** (e.g., PySpark) for large-scale data analytics.  
-- **Vector Databases** and their role in **AI-driven semantic search** and **retrieval-augmented generation (RAG)**.  
+- **Vector Databases** and their role in **AI-driven semantic search** and **retrieval-augmented generation (RAG)**, including a **pgvector tutorial** demonstrating how to integrate vector search into PostgreSQL for similarity queries and AI use cases.
 - **Integration with visualization tools** (Power BI) and **web applications** (Streamlit) for presenting insights interactively.
 - **API development** for exposing database functionality and enabling programmatic access to data.
 
