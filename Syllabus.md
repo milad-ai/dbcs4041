@@ -44,7 +44,7 @@ In the final project, students will design and implement a complete database sys
 
 ## **Homework Assignments**
 
-Throughout the course, students will complete several homework assignments aimed at reinforcing the concepts covered in lectures and reading materials (See the [homework page](https://dbcs.ir/assignments/), which will be updated during the course). The due dates for these assignments will be posted on this website.
+You will have five sets of homework assignments, which together carry a total of 5 points. These assignments include both theoretical and practical exercises to help reinforce your learning throughout the course (See the [homework page](https://dbcs.ir/assignments/), which will be updated during the course). The due dates for these assignments will be posted on this website.
 
 Please follow the instructions to turn in your homework:
 - Homeworks must be submitted electronically as PDF files.
