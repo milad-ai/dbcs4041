@@ -30,4 +30,4 @@ For the final project, each student must design and implement a complete databas
 
 ---
 
-> **Note:** The project must be deployed (locally or online) and include full documentation of each step.
+> **Note:** The project must be deployed  and include full documentation of each step.
