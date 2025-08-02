@@ -178,6 +178,7 @@ To successfully participate in this course, students are expected to prepare the
 - **Ploomber Cloud**: [create a Ploomber Cloud account](https://www.platform.ploomber.io/register/)
 - **[Visual Studio Code](https://code.visualstudio.com/download)**
 - **[PostgreSQL](https://www.postgresql.org/download/)**
+- **Neon**: Sign up at [Neon](https://neon.com/) for serverless PostgreSQL database hosting.
 - **DuckDB**: Install DuckDB for lightweight, embedded database tasks and analytical queries.
 - **[Power BI](https://powerbi.microsoft.com/)**: Used for data visualization and creating interactive dashboards to analyze database results. 
 - **Marimo**: This will be used as the primary environment for interactive notebooks and coding sessions.
