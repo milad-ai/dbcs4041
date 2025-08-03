@@ -55,7 +55,8 @@ Please follow the instructions to turn in your homework:
   - `HW<2-digits homework number>_<LastName>_<FirstName>`  
   - For instance, my first homework would be called: `HW01_Vazan_Milad`  
 
-⚠️ **Important:** Emails with this exact subject format will receive an **automatic confirmation reply** upon submission.  
+⚠️ **Important:** Emails with this exact subject format will receive an automatic confirmation reply upon submission.
+If you do not receive this confirmation within **five minutes**, it means your email was not received.
 
 - 📧 Send your homework to **hw@dbcs.ir**
 
