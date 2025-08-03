@@ -54,6 +54,8 @@ Please follow the instructions to turn in your homework:
 - The **subject line of your email** must follow this naming scheme:  
   - `HW<2-digits homework number>_<LastName>_<FirstName>`  
   - For instance, my first homework would be called: `HW01_Vazan_Milad`  
+  - 📧 Send your homework to **hw@dbcs.ir**
+
 
 ⚠️ **Important:** Emails with this exact subject format will receive an automatic confirmation reply upon submission.  
 If you do not receive this confirmation within **five minutes**, it means your email was not received.  
@@ -63,7 +65,6 @@ An **automatic reminder** will be sent **one day before the deadline** to the em
 
 If the **deadline is extended**, students who have **not submitted** their assignment will receive another **automatic email** **one day before the new deadline**.
 
-- 📧 Send your homework to **hw@dbcs.ir**
 
 
 ## **Exams**
