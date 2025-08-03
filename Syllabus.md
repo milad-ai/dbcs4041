@@ -6,7 +6,7 @@ permalink: /Syllabus/
 # **Course Objectives**
 This course provides a comprehensive introduction to **database management systems (DBMS)** and their role in modern data-driven applications. It covers the **fundamentals of database theory**, **conceptual and logical design**, and **data access and manipulation** while emphasizing **best practices** for modeling, implementation, and optimization.
 
-Students will gain proficiency in **relational database concepts** through **Entity-Relationship (ER) modeling**, mapping ER diagrams to **relational schemas**, applying **normalization techniques**, and formulating complex **SQL queries** for real-world analytical tasks.
+Students will gain proficiency in **relational database concepts** through **Entity-Relationship (ER) modeling**, mapping ER diagrams to **relational schemas**, and formulating complex **SQL queries** for real-world analytical tasks.
 
 The course also introduces key **data concepts and ethical considerations**:  
 
@@ -31,7 +31,6 @@ Upon successful completion of this course, the student will be able to:
 - Design ER models for simple applications and convert them into relational tables.
 - Differentiate between **OLAP and OLTP systems** and understand their real-world use cases.
 - Formulate SQL queries effectively for data retrieval and manipulation.  
-- Utilize normalization techniques to enhance database design.  
 - Compare relational approaches with **NoSQL** paradigms and understand their trade-offs.
 - Learn to connect databases with **Python** and perform **data analysis with Pandas and PySpark**.  
 - Perform **data extraction, transformation, and visualization** to support business decisions.
@@ -97,89 +96,6 @@ For any issues at all, please reach out to the instructor:
 - Speak with me before class  
 - Raise your hand or speak up during class
 
-
-## **Collaboration Policy**
-
-You are encouraged to discuss the content of this course with anyone you like; however, it is essential to **maintain academic integrity** in your work. All homework assignments, projects, and exams must be completed independently, meaning you are not permitted to copy any part of another student’s solution, collaborate with others on your assignments, or use solutions from unauthorized sources, including the Internet. **Therefore, the solution you submit for each assignment must be solely your own, reflecting your understanding and effort.**
-
-## **Generative AI Usage Guidelines**
-
-## 1. Purpose of These Guidelines
-Generative AI tools (e.g., ChatGPT, GitHub Copilot, Claude) can support your learning by explaining concepts, suggesting code examples, and offering design guidance. However, the **primary goal of this course** is for you to personally develop the skills, not rely solely on ready-made answers. These guidelines ensure deep learning, academic honesty, and ethical use.
-
-
-
-## 2. Allowed Uses
-You are encouraged to use generative AI tools for the following purposes:
-
-- **Explaining Concepts**  
-  Asking about differences, applications, or underlying theory (e.g., the difference between INNER JOIN and LEFT JOIN in SQL).
-
-- **Debugging Guidance**  
-  Asking what a specific error means and exploring strategies to fix it.
-
-- **Best Practices**  
-  Example: “How should I manage database connections securely in Python?”
-
-- **Exploring Libraries and Tools**  
-  Example: “Which libraries are available for connecting Python to PostgreSQL?”
-
-- **Improving Code Readability or Design**  
-  Requesting feedback to simplify queries or optimize algorithms.
-
-- **Comparing Approaches**  
-  Example: “What are the advantages of SQL vs. NoSQL, or Pandas vs. PySpark?”
-
-- **Learning Through Simple Examples**  
-  Understanding patterns and structures without requesting final answers to assignments.
-
-
-
-## 3. Prohibited Uses
-Please **do not** use generative AI tools for the following:
-
-- **Directly Solving Course Assignments or Projects**  
-  Requesting final code or answers for graded work.
-
-- **Bypassing the Learning Process**  
-  Copying AI-generated solutions without understanding them.
-
-- **Sharing Proprietary Course Content**  
-  Posting full assignment or project descriptions into AI tools.
-
-- **Using AI as the Only Source**  
-  Ignoring course notes, lectures, and official documentation.
-
-
-
-## 4. Transparency and Academic Integrity
-- If you used generative AI in your work, **disclose it clearly** and explain how you used it (e.g., “I used ChatGPT to help explain a SQL error”).  
-- Any misuse (e.g., submitting AI-generated answers as your own) violates academic honesty policies and may result in disciplinary action.
-
-
-
-## 5. Examples
-
-### 5.1 Acceptable Questions
-- “How can I remove duplicate records in SQL?”
-- “What is the difference between INNER JOIN and LEFT JOIN in SQL?”
-- “What visualization tools are available in Python that are similar to Power BI?”
-- “Is there a more efficient way to normalize this database schema?”
-
-### 5.2 Unacceptable Questions
-- “Write the solution for Question 3 of Week 5’s assignment.”
-- “Generate the complete code for the final project.”
-- “Optimize this exact query from my homework and give me the final answer.”
-- “Provide me with a ready-to-submit file for this task.”
-
-
-## 6. Best Practices for Using Generative AI
-- Treat AI responses as **guidance**, not final solutions.  
-- Use AI to **enhance your understanding**, not replace your own problem-solving.  
-- Ensure **progressive learning**: try solving on your own first, then use AI for clarification.
-
-
-
 ## **Required Tools and Accounts**
 
 To successfully participate in this course, students are expected to prepare the following tools and accounts prior to the practical sessions:
@@ -205,6 +121,68 @@ To successfully participate in this course, students are expected to prepare the
 ### **Hardware Requirement**
 
 For the SQL and practical sessions, students will need **a laptop or a smartphone** to follow along and complete in-class exercises.
+
+## **Collaboration Policy**
+
+You are encouraged to discuss the content of this course with anyone you like; however, it is essential to **maintain academic integrity** in your work. All homework assignments, projects, and exams must be completed independently, meaning you are not permitted to copy any part of another student’s solution, collaborate with others on your assignments, or use solutions from unauthorized sources, including the Internet. **Therefore, the solution you submit for each assignment must be solely your own, reflecting your understanding and effort.**
+
+## **Generative AI Usage Guidelines**
+
+## 1. Purpose of These Guidelines
+Generative AI tools (e.g., ChatGPT, GitHub Copilot, Claude) can support your learning by explaining concepts, suggesting code examples, and offering design guidance. However, the **primary goal of this course** is for you to personally develop the skills, not rely solely on ready-made answers. These guidelines ensure deep learning, academic honesty, and ethical use.
+
+## 2. Allowed Uses
+You are encouraged to use generative AI tools for the following purposes:
+- **Explaining Concepts**  
+  Asking about differences, applications, or underlying theory (e.g., the difference between INNER JOIN and LEFT JOIN in SQL).
+- **Debugging Guidance**  
+  Asking what a specific error means and exploring strategies to fix it.
+- **Best Practices**  
+  Example: “How should I manage database connections securely in Python?”
+- **Exploring Libraries and Tools**  
+  Example: “Which libraries are available for connecting Python to PostgreSQL?”
+- **Improving Code Readability or Design**  
+  Requesting feedback to simplify queries or optimize algorithms.
+- **Comparing Approaches**  
+  Example: “What are the advantages of SQL vs. NoSQL, or Pandas vs. PySpark?”
+- **Learning Through Simple Examples**  
+  Understanding patterns and structures without requesting final answers to assignments.
+
+## 3. Prohibited Uses
+Please **do not** use generative AI tools for the following:
+- **Directly Solving Course Assignments or Projects**  
+  Requesting final code or answers for graded work.
+- **Bypassing the Learning Process**  
+  Copying AI-generated solutions without understanding them.
+- **Sharing Proprietary Course Content**  
+  Posting full assignment or project descriptions into AI tools.
+- **Using AI as the Only Source**  
+  Ignoring course notes, lectures, and official documentation.
+
+## 4. Transparency and Academic Integrity
+- If you used generative AI in your work, **disclose it clearly** and explain how you used it (e.g., “I used ChatGPT to help explain a SQL error”).  
+- Any misuse (e.g., submitting AI-generated answers as your own) violates academic honesty policies and may result in disciplinary action.
+
+## 5. Examples
+
+### 5.1 Acceptable Questions
+- “How can I remove duplicate records in SQL?”
+- “What is the difference between INNER JOIN and LEFT JOIN in SQL?”
+- “What visualization tools are available in Python that are similar to Power BI?”
+- “Is there a more efficient way to normalize this database schema?”
+
+### 5.2 Unacceptable Questions
+- “Write the solution for Question 3 of Week 5’s assignment.”
+- “Generate the complete code for the final project.”
+- “Optimize this exact query from my homework and give me the final answer.”
+- “Provide me with a ready-to-submit file for this task.”
+
+
+## 6. Best Practices for Using Generative AI
+- Treat AI responses as **guidance**, not final solutions.  
+- Use AI to **enhance your understanding**, not replace your own problem-solving.  
+- Ensure **progressive learning**: try solving on your own first, then use AI for clarification.
+
 
 ## **Related Courses**
 ### Other Databases courses 
