@@ -46,7 +46,6 @@ In the final project, students will design and implement a complete database sys
 
 > **Important:**  
 > The weekly topics may be subject to minor adjustments. Some topics might be added, removed, or shifted slightly during the course based on class progress and feedback.
----
 
 ## **Introduction to Databases and Data Concepts**
 - Overview of course structure, grading, and final project.
@@ -56,23 +55,12 @@ In the final project, students will design and implement a complete database sys
 - Levels of data analytics: descriptive, diagnostic, predictive, prescriptive.
 - Ethical considerations and bias in data.
 
----
-
 ## **Database Models and ER Design Basics**
 - Overview of database models: hierarchical, network, relational, NoSQL.
 - Introduction to **Entity-Relationship (ER) modeling)**.
 - Entities, attributes, relationships, and cardinality.
-- Conceptual modeling exercise for simple datasets.
-
----
-
-## **Advanced ER Modeling and Relational Mapping**
 - Weak entities, composite attributes, multi-valued attributes.
-- Business rules and complex relationships.
-- Converting ER diagrams to **relational schemas**.
-- Primary and foreign keys, constraints.
-
----
+- Conceptual modeling exercise for simple datasets.
 
 ## **Relational Model and SQL Fundamentals**
 - Basics of the **relational model**.
@@ -80,7 +68,6 @@ In the final project, students will design and implement a complete database sys
 - Basic SQL commands: `SELECT`, `INSERT`, `UPDATE`, `DELETE`.
 - Query filtering with `WHERE`, ordering with `ORDER BY`.
 
----
 
 ## **Intermediate SQL: Aggregations and Joins**
 - Aggregate functions: `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`.
@@ -88,7 +75,6 @@ In the final project, students will design and implement a complete database sys
 - Joining tables: inner join, left join, right join, full outer join.
 - Multi-table query exercises.
 
----
 
 ## **Advanced SQL Queries**
 - Subqueries and nested queries.
@@ -96,7 +82,6 @@ In the final project, students will design and implement a complete database sys
 - Window functions (ranking, moving averages).
 - Overview of indexing and basic query optimization.
 
----
 
 ## **OLAP vs OLTP and Analytical Databases**
 - Transactional vs analytical database systems (OLTP vs OLAP).
@@ -104,15 +89,12 @@ In the final project, students will design and implement a complete database sys
 - Introduction to **DuckDB** as an embedded analytical database.
 - Importing and querying data directly from CSV/Parquet files.
 
----
-
 ## **Exploratory Data Analysis with DuckDB**
 - Performing descriptive analytics with DuckDB.
 - Combining DuckDB with **Pandas** for hybrid workflows.
 - Summary statistics, grouping, and filtering for analysis.
 - Practical EDA on sample datasets.
 
----
 
 ## **Data Cleaning and Transformation**
 - Handling missing values and outliers.
@@ -120,42 +102,36 @@ In the final project, students will design and implement a complete database sys
 - Creating computed columns and derived tables.
 - Preparing data for visualization and reporting.
 
----
 
 ## **Python Integration with Databases**
 - Connecting PostgreSQL and DuckDB to Python.
 - Running queries and handling results in **Pandas**.
 - Data transformation pipelines using SQL + Python.
 
----
 
 ## **Visualization and Reporting**
 - Introduction to **Power BI** and **Streamlit**.
 - Connecting databases to visualization tools.
 - Building dashboards and simple interactive reports.
 
----
 
 ## **Introduction to NoSQL and Modern Trends**
 - Basics of NoSQL databases (document, key-value, graph).
 - Comparing NoSQL and relational approaches.
 - Use cases where NoSQL is more suitable.
 
----
 
 ## **Big Data and Analytical Frameworks**
 - Overview of **big data** concepts and challenges.
 - Introduction to **PySpark** for large-scale data processing (conceptual).
 - When and why to scale beyond single-node databases.
 
----
 
 ## **Vector Databases and AI Search (Overview)**
 - Concept of vector embeddings and semantic search.
 - Introduction to **pgvector** and similarity queries in PostgreSQL.
 - Brief mention of retrieval-augmented generation (RAG) use cases.
 
----
 
 
 ## **Homework Assignments**
