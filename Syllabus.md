@@ -44,10 +44,8 @@ In the final project, students will design and implement a complete database sys
 
 # **Weekly Course Outline**
 
-> [!NOTE]
 > **Important:**  
-> Weekly topics may slightly change based on class progress and feedback.
-
+> The weekly topics may be subject to minor adjustments. Some topics might be added, removed, or shifted slightly during the course based on class progress and feedback.
 ---
 
 ## **Introduction to Databases and Data Concepts**
