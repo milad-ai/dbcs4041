@@ -60,7 +60,6 @@ In the final project, students will design and implement a complete database sys
 - Introduction to **Entity-Relationship (ER) modeling)**.
 - Entities, attributes, relationships, and cardinality.
 - Weak entities, composite attributes, multi-valued attributes.
-- Conceptual modeling exercise for simple datasets.
 
 #### **Relational Model and SQL Fundamentals**
 - Basics of the **relational model**.
@@ -80,8 +79,7 @@ In the final project, students will design and implement a complete database sys
 - Subqueries and nested queries.
 - Set operations: `UNION`, `INTERSECT`, `EXCEPT`.
 - Window functions (ranking, moving averages).
-- Overview of indexing and basic query optimization.
-
+- Overview of indexing
 
 #### **OLAP vs OLTP and Analytical Databases**
 - Transactional vs analytical database systems (OLTP vs OLAP).
