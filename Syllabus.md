@@ -12,14 +12,13 @@ The course also introduces key **data concepts and ethical considerations**:
 
 - Understanding the **data hierarchy (DIKW pyramid: Data → Information → Knowledge → Wisdom)**.  
 - Introducing **bias and basic ethical issues** in working with data, along with emerging concepts such as **dataism**.  
-- Learning the **four levels of data analytics**: descriptive, diagnostic, predictive, and prescriptive.  
-
+- Learning the **four levels of data analytics**: descriptive, diagnostic, predictive, and prescriptive.
+  
 Beyond the fundamentals, the course introduces **modern trends and tools** in database management, such as:
 
 - **Embedded and analytical databases** (e.g., DuckDB) for fast local processing.
 - **Analytical vs transactional systems**: understanding **OLAP (Online Analytical Processing)** vs **OLTP (Online Transaction Processing)**.
 - **Data Warehouse** vs **Data Lake** vs **Lakehouse** architectures: understanding their differences, purposes, and how they integrate in modern data ecosystems.
-
 - **Introduction to NoSQL databases** (e.g., MongoDB) and understanding when to choose them over relational systems.
 - **Query optimization and indexing** for improved performance in large datasets. 
 - **Big Data frameworks** (e.g., PySpark) for large-scale data analytics.  
