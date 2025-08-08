@@ -6,10 +6,11 @@ items:
 - url: /Syllabus/
   name: Syllabus
   icon_class: fas fa-book-reader 
-  
-- url: /schedule/
-  name: Schedule
+
+- url: / Weekly_Course_Outline/
+  name:  Weekly Course Outline
   icon_class: fas fa-calendar-alt
+
 
 - url: /lectures/
   name: Lectures
@@ -30,4 +31,8 @@ items:
 - url: /exams/
   name: exams
   icon_class: fas fa-book-reader
+
+- url: /schedule/
+  name: Schedule
+  icon_class: fas fa-calendar-alt
 
