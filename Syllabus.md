@@ -32,6 +32,7 @@ Upon successful completion of this course, the student will be able to:
 - Introduce fundamental concepts, terminology, and applications of databases.  
 - Design ER models for simple applications and convert them into relational tables.
 - Differentiate between **OLAP and OLTP systems** and understand their real-world use cases.
+- Compare Data Warehouse, Data Lake, and Lakehouse approaches and determine when each is most effective.
 - Formulate SQL queries effectively for data retrieval and manipulation.  
 - Compare relational approaches with **NoSQL** paradigms and understand their trade-offs.
 - Learn to connect databases with **Python** and perform **data analysis with Pandas and PySpark**.  
