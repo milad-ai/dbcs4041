@@ -46,6 +46,7 @@ permalink: /Teaching_Schedule/
 - Use cases for each system in real-world applications.
 - Introduction to **DuckDB** as an embedded analytical database.
 - Importing and querying data directly from CSV/Parquet files.
+- **Data Warehouse vs Data Lake vs Lakehouse**
 
 #### **Exploratory Data Analysis with DuckDB**
 - Performing descriptive analytics with DuckDB.
