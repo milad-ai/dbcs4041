@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Weekly Course Schedule
-permalink: /Weekly_Course_Schedule/
+title: Teaching Plan (what will be taught each session)
+permalink: /Teaching_Schedule/
 ---
 
 > **Important:**  
