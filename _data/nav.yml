@@ -7,8 +7,8 @@ items:
   name: Syllabus
   icon_class: fas fa-book-reader 
 
-- url: /Weekly_Course_Schedule/
-  name:  WCS
+- url: /Teaching_Schedule/
+  name: Teaching Plan
   icon_class: fas fa-calendar-alt
 
 
