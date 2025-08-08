@@ -42,7 +42,7 @@ The primary hands-on environment will be **PostgreSQL**, supplemented by **DuckD
 In the final project, students will design and implement a complete database system from conceptual modeling to relational implementation, accompanied by an interactive analytical dashboard and a simple web application for data exploration and reporting.
 
 
-# **📚 [View Detailed Teaching Plan (Session-by-Session Breakdown)](https://dbcs.ir/Teaching_Schedule/)↵**
+# **📚 [View Detailed Teaching Plan](https://dbcs.ir/Teaching_Schedule/)↵**
 
 
 ## **Homework Assignments**
