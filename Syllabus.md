@@ -18,6 +18,8 @@ Beyond the fundamentals, the course introduces **modern trends and tools** in da
 
 - **Embedded and analytical databases** (e.g., DuckDB) for fast local processing.
 - **Analytical vs transactional systems**: understanding **OLAP (Online Analytical Processing)** vs **OLTP (Online Transaction Processing)**.
+- **Data Warehouse** vs **Data Lake** vs **Lakehouse** architectures: understanding their differences, purposes, and how they integrate in modern data ecosystems.
+
 - **Introduction to NoSQL databases** (e.g., MongoDB) and understanding when to choose them over relational systems.
 - **Query optimization and indexing** for improved performance in large datasets. 
 - **Big Data frameworks** (e.g., PySpark) for large-scale data analytics.  
