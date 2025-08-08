@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Weekly Course Outline
-permalink: /Weekly_Course_Outline/
+title: Weekly Course Schedule
+permalink: /Weekly_Course_Schedule/
 ---
 
 > **Important:**  
