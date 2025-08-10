@@ -36,3 +36,6 @@ items:
   name: Schedule
   icon_class: fas fa-calendar-alt
 
+- url: /AI_Guidelines/
+  name: Generative AI Usage Guidelines
+  icon_class: fas fa-book
