@@ -133,7 +133,7 @@ For the SQL and practical sessions, students will need **a laptop or a smartphon
 You are encouraged to discuss the content of this course with anyone you like; however, it is essential to **maintain academic integrity** in your work. All homework assignments, projects, and exams must be completed independently, meaning you are not permitted to copy any part of another student’s solution, collaborate with others on your assignments, or use solutions from unauthorized sources, including the Internet. **Therefore, the solution you submit for each assignment must be solely your own, reflecting your understanding and effort.**
 
 
-### 📎[View Generative AI Usage Guidelines](https://dbcs.ir/AI_Guidelines/)↵
+### **📜 [View Generative AI Usage Guidelines](https://dbcs.ir/AI_Guidelines/)↵**
 
 
 ## **Related Courses**
