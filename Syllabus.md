@@ -83,8 +83,8 @@ The course will include **two exams**. Both exams will assess the required readi
 - Class attendance and participation: **2** points 
 - Homeworks: **5** points
 - Final project: **5** points 
-- Midterm exam (-----): **3** points
-- Final exam (-----): **5** points 
+- Midterm exam: **3** points
+- Final exam: **5** points 
 
 
 ## **Seeking Assistance**
