@@ -15,7 +15,7 @@ permalink: /Teaching_Schedule/
 - Levels of data analytics: descriptive, diagnostic, predictive, prescriptive.
 - Ethical considerations and bias in data.
 
-#### **Database Models and ER Design Basics (1 week)**
+#### **Database Models and ER Design Basics (1–2 weeks)**
 - Overview of database models: hierarchical, network, relational, NoSQL.
 - Introduction to **Entity-Relationship (ER) modeling)**.
 - Entities, attributes, relationships, and cardinality.
