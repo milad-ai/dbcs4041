@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching Plan
+title: Weekly Topics
 permalink: /Teaching_Schedule/
 ---
 > 📌
