@@ -16,7 +16,6 @@ permalink: /Teaching_Schedule/
 - Ethical considerations and bias in data.
 
 #### **Database Models and ER Design Basics (1–2 weeks)**
-- Overview of database models: hierarchical, network, relational, NoSQL.
 - Introduction to **Entity-Relationship (ER) modeling)**.
 - Entities, attributes, relationships, and cardinality.
 - Weak entities, composite attributes, multi-valued attributes.
