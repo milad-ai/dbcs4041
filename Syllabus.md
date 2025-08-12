@@ -77,7 +77,7 @@ The course will include **two exams**. Both exams will assess the required readi
 {: 	.text-green-200 }
 
 ## **Attendance and Participation**
-
+{% include image.html url="/_images/Annotation 2025-08-04 193843.png" width=500 align="right" %}
 **Attendance is required**, and exceeding four absences may result in a penalty of up to 2 points off your total grade. Active participation in both in-class activities and the online message board is highly encouraged.
 
 # **Grading**
