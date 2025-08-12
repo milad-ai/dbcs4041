@@ -14,6 +14,7 @@ permalink: /Teaching_Schedule/
 - **DIKW pyramid** (Data → Information → Knowledge → Wisdom).
 - Levels of data analytics: descriptive, diagnostic, predictive, prescriptive.
 - Ethical considerations and bias in data.
+- Basic database terminology (tables, rows, columns, keys). 
 
 ## **Database Models and ER Design Basics (1–2 weeks)**
 - Introduction to **Entity-Relationship (ER) modeling)**.
