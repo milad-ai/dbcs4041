@@ -24,7 +24,6 @@ Beyond the fundamentals, the course introduces **modern trends and tools** in da
 - **Big Data frameworks** (e.g., PySpark) for large-scale data analytics.  
 - **Vector Databases** and their role in **AI-driven semantic search** and **retrieval-augmented generation (RAG)**, including a **pgvector tutorial** demonstrating how to integrate vector search into PostgreSQL for similarity queries and AI use cases.
 - **Integration with visualization tools** (Power BI) and **web applications** (Streamlit) for presenting insights interactively.
-- **API development** for exposing database functionality and enabling programmatic access to data.
 
 Upon successful completion of this course, the student will be able to:
 
@@ -36,7 +35,6 @@ Upon successful completion of this course, the student will be able to:
 - Compare relational approaches with **NoSQL** paradigms and understand their trade-offs.
 - Learn to connect databases with **Python** and perform **data analysis with Pandas and PySpark**.  
 - Perform **data extraction, transformation, and visualization** to support business decisions.
-- Build basic **APIs** to expose and integrate database functionalities into external applications.
 
 
 The primary hands-on environment will be **PostgreSQL**, supplemented by **DuckDB, Marimo notebooks, and Power BI**, providing both industry-standard and cutting-edge perspectives on database management.
