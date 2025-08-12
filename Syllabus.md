@@ -52,7 +52,8 @@ In the final project, students will design and implement a complete database sys
 You will have five sets of homework assignments, which together carry a total of 5 points. These assignments include both theoretical and practical exercises to help reinforce your learning throughout the course (See the [homework page](https://dbcs.ir/assignments/), which will be updated during the course). The due dates for these assignments will be posted on this website.
 
 ## Homework Submission Instructions
-
+{% include image.html url="/_images/Annotation 2025-08-04 194554.png" width=450 align="right" %}
+{% include image.html url="/_images/Annotation 2025-08-05 113141.png" width=450 align="right" %}
 Please follow the instructions to turn in your homework:  
 
 - Homeworks must be submitted electronically.  
@@ -61,12 +62,9 @@ Please follow the instructions to turn in your homework:
   - For instance, my first homework would be called: `HW01_Vazan_Milad`  
   - 📧 Send your homework to **hw@dbcs.ir**
 
-
 ⚠️ **Important:** Emails with this exact subject format will receive an automatic confirmation reply upon submission. If you do not receive this confirmation within **five minutes**, it means your email was not received.  
-{% include image.html url="/_images/Annotation 2025-08-04 194554.png" width=500 align="right" %}
 
 > The **deadline** for each assignment will be **announced separately**. An **automatic reminder** will be sent **one day before the deadline** to the email address you provided to the instructor during the **first session**.
-{% include image.html url="/_images/Annotation 2025-08-05 113141.png" width=500 align="right" %}
 > If the **deadline is extended**, students who have **not submitted** their assignment will receive another **automatic email** **one day before the new deadline**.
 
 
