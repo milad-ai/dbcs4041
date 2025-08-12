@@ -8,7 +8,7 @@ items:
   icon_class: fas fa-book-reader 
 
 - url: /Teaching_Schedule/
-  name: Teaching Plan
+  name: Weekly Topics
   icon_class: fas fa-calendar-alt
 
 
