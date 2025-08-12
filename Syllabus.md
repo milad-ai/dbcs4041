@@ -63,7 +63,7 @@ Please follow the instructions to turn in your homework:
 
 
 ⚠️ **Important:** Emails with this exact subject format will receive an automatic confirmation reply upon submission. If you do not receive this confirmation within **five minutes**, it means your email was not received.  
-{% include image.html url="/_images/Annotation 2025-08-04 194554.png" width=175 align="right" %}
+{% include image.html url="/_images/Annotation 2025-08-04 194554.png" width=400 align="right" %}
 > The **deadline** for each assignment will be **announced separately**. An **automatic reminder** will be sent **one day before the deadline** to the email address you provided to the instructor during the **first session**.
 
 > If the **deadline is extended**, students who have **not submitted** their assignment will receive another **automatic email** **one day before the new deadline**.
