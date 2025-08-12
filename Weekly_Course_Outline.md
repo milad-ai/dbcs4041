@@ -3,7 +3,7 @@ layout: page
 title: Teaching Plan
 permalink: /Teaching_Schedule/
 ---
-
+> 📌
 > **Important:**  
 > The weekly topics may be subject to minor adjustments. Some topics might be added, removed, or shifted slightly during the course based on class progress and feedback.
 
