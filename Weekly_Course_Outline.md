@@ -8,12 +8,15 @@ permalink: /Teaching_Schedule/
 > The weekly topics may be subject to minor adjustments. Some topics might be added, removed, or shifted slightly during the course based on class progress and feedback.
 
 ## **Introduction to Databases and Data Concepts (1 week)**
+## Session 1
 - Overview of course structure, grading, and final project.
 - Role of databases in data-driven applications.
 - Data types: structured, semi-structured, unstructured.
 - **DIKW pyramid** (Data → Information → Knowledge → Wisdom).
 - Levels of data analytics: descriptive, diagnostic, predictive, prescriptive.
 - Ethical considerations and bias in data.
+## Session 2
+- Database and Application Architecture
 - Basic database terminology (tables, rows, columns). 
 
 ## **Database Models and ER Design Basics (1–2 weeks)**
