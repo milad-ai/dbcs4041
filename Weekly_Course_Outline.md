@@ -22,7 +22,7 @@ permalink: /Teaching_Schedule/
 - Weak entities, composite attributes, multi-valued attributes.
 
 ## **Relational Model and SQL Fundamentals (1 week)**
-- Basics of the **relational model**.
+- Converting ER to a relational model.
 - Creating databases and tables in PostgreSQL.
 - Basic SQL commands: `SELECT`, `INSERT`, `UPDATE`, `DELETE`.
 - Query filtering with `WHERE`, ordering with `ORDER BY`.
@@ -31,11 +31,14 @@ permalink: /Teaching_Schedule/
 ## **Intermediate SQL and Advanced SQL Queries (2-3 weeks)**
 - Aggregate functions: `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`.
 - Grouping with `GROUP BY` and filtering with `HAVING`.
+- Set operations: `UNION`, `INTERSECT`, `EXCEPT`.
 - Joining tables: inner join, left join, right join, full outer join.
 - Multi-table query exercises.
-- Subqueries and nested queries.
-- Set operations: `UNION`, `INTERSECT`, `EXCEPT`.
+- Subqueries.
 - Window functions (ranking, moving averages).
+- Views
+- Transactions
+- Triggers
 - Overview of indexing
 
 ## **Introduction to NoSQL and Modern Trends (2-3 weeks)**
