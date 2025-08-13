@@ -43,7 +43,7 @@ permalink: /Teaching_Schedule/
 - Aggregate functions: `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`.
 - Grouping with `GROUP BY` and filtering with `HAVING`.
 
-## Session 8 -> Midterm Exam
+# 🔴**Session 8 -> Midterm Exam**🔴
 
 ## Session 9
 - Set operations: `UNION`, `INTERSECT`, `EXCEPT`.
