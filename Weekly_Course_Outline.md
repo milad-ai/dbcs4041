@@ -35,7 +35,7 @@ permalink: /Teaching_Schedule/
 - Joining tables: inner join, left join, right join, full outer join.
 - Multi-table query exercises.
 - Subqueries.
-- Window functions (ranking, moving averages).
+- Window functions.
 - Views
 - Transactions
 - Triggers
