@@ -8,7 +8,7 @@ layout: home
 - There will be a summative final project, in which students will integrate the tools and techniques they have learned into a cohesive whole.
 
 ## [🏷️ Syllabus ↵](https://dbcs.ir/Syllabus/)
-## 📚 [View Detailed Teaching Plan ↵](https://dbcs.ir/Teaching_Schedule/)
+## [📚 Weekly Topics ↵](https://dbcs.ir/Teaching_Schedule/)
 
 
 
