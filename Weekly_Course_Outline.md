@@ -30,6 +30,7 @@ permalink: /Teaching_Schedule/
 ## **Relational Model and SQL Fundamentals (1 week)**
 ## Session 5
 - Converting ER to a relational model.
+- Normalization vs. Denormalization
   
 ## Session 6
 - Creating databases and tables in PostgreSQL.
