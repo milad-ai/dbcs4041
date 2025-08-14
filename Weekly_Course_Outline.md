@@ -37,10 +37,11 @@ permalink: /Teaching_Schedule/
 - Query filtering with `WHERE`, ordering with `ORDER BY`.
 
 
-## **Intermediate SQL and Advanced SQL Queries (2-3 weeks)**
+## **Intermediate SQL and Advanced SQL Queries (3-4 weeks)**
 ## Session 7
 - Aggregate functions: `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`.
 - Grouping with `GROUP BY` and filtering with `HAVING`.
+- Advanced Text Search
 
 ## Session 8 -> Midterm Exam
 
@@ -51,9 +52,12 @@ permalink: /Teaching_Schedule/
 ## Session 10
 - Multi-table query exercises.
 - Subqueries.
+- Common Table Expression (CTE)
 
 ## Session 11
 - Window functions.
+- Condition Expressions
+- User-defined Functions
 - Views
 
 ## Session 12
@@ -61,20 +65,27 @@ permalink: /Teaching_Schedule/
 - Triggers
 - Overview of indexing
 
+## Session 13
+- Denormalized Data Types
+  - Array
+  - XML
+  - JSON
+  - Cast
+
 ## **Introduction to NoSQL and Modern Trends (2-3 weeks)**
 
-## Sessions 13–14-15
+## Sessions 14–15-16
 - Basics of NoSQL databases (document, key-value, graph).
 - Comparing NoSQL and relational approaches.
 - Use cases where NoSQL is more suitable.
 - MongoDB
 
-## Sessions 16-17
+## Sessions 17-18
 - Redis
 
 ## **OLAP vs OLTP and Analytical Databases (1–2 weeks)**
 
-## Session 18
+## Session 19
 - Transactional vs analytical database systems (OLTP vs OLAP).
 - Use cases for each system in real-world applications.
 - **Data Warehouse vs Data Lake vs Lakehouse**
@@ -82,7 +93,7 @@ permalink: /Teaching_Schedule/
 - Importing and querying data directly from CSV/Parquet files.
 - Performing descriptive analytics with DuckDB.
 
-## Sessions 19-20
+## Sessions 20-21
 - Combining DuckDB with **Pandas** for hybrid workflows.
 - Summary statistics, grouping, and filtering for analysis.
 - Handling missing values and outliers.
