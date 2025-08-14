@@ -21,7 +21,7 @@ permalink: /Teaching_Schedule/
 
 ## **Database Models and ER Design Basics (1 week)**
 ## Session 3
-- Introduction to **Entity-Relationship (ER) modeling)**.
+- Introduction to **Entity-Relationship (ER) modeling**.
 
 ## Session 4
 - Entities, attributes, relationships, and cardinality.
