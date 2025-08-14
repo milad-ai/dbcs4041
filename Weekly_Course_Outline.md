@@ -10,12 +10,11 @@ permalink: /Teaching_Schedule/
 ## **Introduction to Databases and Data Concepts (1 week)**
 ## Session 1
 - Overview of course structure, grading, and final project.
-- Role of databases in data-driven applications.
-- Data types: structured, semi-structured, unstructured.
 - **DIKW pyramid** (Data → Information → Knowledge → Wisdom).
-- Levels of data analytics: descriptive, diagnostic, predictive, prescriptive.
 - Ethical considerations and bias in data.
-  
+- Data types: structured, semi-structured, unstructured.
+- Levels of data analytics: descriptive, diagnostic, predictive, prescriptive.
+
 ## Session 2
 - Database and Application Architecture
 - Basic database terminology (tables, rows, columns). 
@@ -43,7 +42,7 @@ permalink: /Teaching_Schedule/
 - Aggregate functions: `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`.
 - Grouping with `GROUP BY` and filtering with `HAVING`.
 
-# 🔴**Session 8 -> Midterm Exam**🔴
+## Session 8 -> Midterm Exam
 
 ## Session 9
 - Set operations: `UNION`, `INTERSECT`, `EXCEPT`.
