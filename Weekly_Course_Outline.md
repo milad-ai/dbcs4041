@@ -72,7 +72,7 @@ permalink: /Teaching_Schedule/
   - JSON
   - Cast
 
-## **Introduction to NoSQL and Modern Trends (2-3 weeks)**
+## **Introduction to NoSQL and Modern Trends (1-2 weeks)**
 
 ## Sessions 14–15-16
 - Basics of NoSQL databases (document, key-value, graph).
@@ -80,12 +80,10 @@ permalink: /Teaching_Schedule/
 - Use cases where NoSQL is more suitable.
 - MongoDB
 
-## Sessions 17-18
-- Redis
 
 ## **OLAP vs OLTP and Analytical Databases (1–2 weeks)**
 
-## Session 19
+## Session 17
 - Transactional vs analytical database systems (OLTP vs OLAP).
 - Use cases for each system in real-world applications.
 - **Data Warehouse vs Data Lake vs Lakehouse**
@@ -93,7 +91,7 @@ permalink: /Teaching_Schedule/
 - Importing and querying data directly from CSV/Parquet files.
 - Performing descriptive analytics with DuckDB.
 
-## Sessions 20-21
+## Sessions 18-19
 - Combining DuckDB with **Pandas** for hybrid workflows.
 - Summary statistics, grouping, and filtering for analysis.
 - Handling missing values and outliers.
