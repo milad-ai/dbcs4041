@@ -56,16 +56,16 @@ permalink: /Teaching_Schedule/
 
 ## Session 11
 - Window functions.
-- Condition Expressions
-- User-defined Functions
 - Views
+- Transactions
 
 ## Session 12
-- Transactions
 - Triggers
 - Overview of indexing
 
 ## Session 13
+- Condition Expressions
+- User-defined Functions
 - Denormalized Data Types
   - Array
   - XML
